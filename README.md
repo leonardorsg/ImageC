@@ -119,7 +119,7 @@ int main() {
 ```
 
 ## Authors
-Leonardo Garcia - https://github.com/leonardorsg
-Marcel Medeiros - https://github.com/marcelmedeiros1
-Manoela Blanke - https://github.com/manoelablanke4
+- Leonardo Garcia - https://github.com/leonardorsg
+- Marcel Medeiros - https://github.com/marcelmedeiros1
+- Manoela Blanke - https://github.com/manoelablanke4
 
